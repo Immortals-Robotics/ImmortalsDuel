@@ -1,3 +1,6 @@
+# Deprecation notice
+This repository acts as a read-only archive. Further development is done in https://github.com/Immortals-Robotics/Tyr.
+
 # ImmortalsDuel
 A program which helps to navigate the immortals robots using the XBox360 remote controller.
 
